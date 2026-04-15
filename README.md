@@ -1,1 +1,1 @@
-# VS2022_GitHub_Projekt
+Dette projekt er et GitHub Test Projekt.
